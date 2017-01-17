@@ -1,0 +1,25 @@
+/*==========UNIVERSALS==========*/
+
+/*==========ROWS AND COLUMNS==========*/
+
+.row {
+  height: 200px;
+}
+
+.col-md-3 {
+  border: 1px solid #000;
+  background-color: #e40007;
+  height: 200px;
+}
+
+.col-md-9 {
+  border: 1px solid #e7e7e7;
+  background-color: blue;
+  height: 200px;
+}
+
+.col-xs-4 {
+  border: 3px solid red;
+  background-color: purple;
+  height: 175px;
+}
