@@ -34,6 +34,34 @@
   background-color: pink;
 }
 
+.spacer {
+  height: 100px;
+  background-color: none;
+}
+
+.col-sm-2 {
+  border: 5px solid white;
+  height: 150px;
+}
+
+.col-sm-2:nth-child(odd) {
+  background-color: salmon;
+}
+
+.col-sm-2:nth-child(even) {
+  background-color: aqua;
+}
+
+.banner>.col-md-3, .col-md-6 {
+  border: 3px solid white;
+  background-color: silver;
+  height: 100px;
+}
+
+.well {
+  background-color: gold;
+}
+
 /*==========MEDIA QUERIES==========*/
 
 @media screen and (max-width: 480px) {
