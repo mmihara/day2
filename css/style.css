@@ -3,7 +3,7 @@
 /*==========ROWS AND COLUMNS==========*/
 
 .row {
-  height: 200px;
+  min-height: 200px;
 }
 
 .col-md-3 {
